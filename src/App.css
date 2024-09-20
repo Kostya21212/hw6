@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.user-form,
+.user-result,
+.battle {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: black ;
+}
+
+.user-form img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.battle{
+  background-color: wheat;
+}
+
+.error-text {
+  color: red;
+}
+
+.battle-result {
+  margin-top: 20px;
+}
+button{
+  background-color: burlywood;
+  color: black;
+  font-size: 15px;
+  font-weight: 500;
+}
+h3{
+  color: white;
+}
